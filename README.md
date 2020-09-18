@@ -41,6 +41,7 @@
 - 💬 Follow me on the instagramm <a href = "https://www.instagram.com/full_stack_web_developer">Instagramm</a>
 
 <!--
+link with me
 - 📫 How to reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "https://www.instagram.com/full_stack_web_developer"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
