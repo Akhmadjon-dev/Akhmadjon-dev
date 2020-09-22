@@ -36,11 +36,11 @@
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ahmadjon-abdusamadov-938a1b1a4/">LinkedIn</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://akhmadjon-dev.github.io/portfolio-simple/">Web site</a>
 - 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/Akhmadjon17">Twitter</a>
 - 💬 Follow me on the instagramm <a href = "https://www.instagram.com/full_stack_web_developer">Instagramm</a>
 
 <!--
+- 🌐 Updating my personal website with examples of my work on <a href="https://akhmadjon-dev.github.io/portfolio-simple/">Web site</a>
 link with me
 - 📫 How to reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
