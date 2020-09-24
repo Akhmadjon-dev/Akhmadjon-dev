@@ -55,7 +55,7 @@ From [Akhmadjon](https://akhmadjon-dev.github.io/portfolio-simple/)
 #### Thank You 🙏🏼
 
 <!--
-**Akhmadjon-dev/Akhmadjon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Akhmadjon-dev/Akhmadjon-dev** is a ✨ _special_ ✨  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
