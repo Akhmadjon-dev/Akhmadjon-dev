@@ -40,7 +40,7 @@
 - 💬 Follow me on the instagramm <a href = "https://www.instagram.com/full_stack_web_developer">Instagramm</a>
 
 <!--
-- 🌐 Updating my personal  website with examples of my work on <a href="https://akhmadjon-dev.github.io/portfolio-simple/">Web site</a>
+- 🌐 Updating my personal    website with examples of my work on <a href="https://akhmadjon-dev.github.io/portfolio-simple/">Web site</a>
 link with me
 - 📫 How to reach me:<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
