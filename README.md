@@ -44,7 +44,7 @@
 link with me. 
 - 📫 How to reach me:<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;. 
-<a href = "https://www.instagram.com/full_stack_web_developer"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;  ffad
+<a href = "https://www.instagram.com/full_stack_web_developer"> <img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;  ffad
 <a href = "https://www.linkedin.com/in/ahmadjon-abdusamadov-938a1b1a4/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <a href = "https://akhmadjon-dev.github.io/portfolio-simple/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
 -->
