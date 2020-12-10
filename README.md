@@ -14,7 +14,7 @@
 
 <p align="center"
   - <b>Front end</b> <br>
-  - JS 
+  - JS <br> <br>
   - <b>Back end</b> <br>
   - NodeJs
   - Sql, MongoDB
