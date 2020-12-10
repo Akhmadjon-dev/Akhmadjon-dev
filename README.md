@@ -6,15 +6,16 @@
 **Akhmadjon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Ahmadjon from Uzbekistan.
-- 🌱 I’m currently working as Full-Stack Developer at Alitech.
+- 🌱` I’m currently working as Full-Stack Developer at Alitech.
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Web, Front-end and Back-end.
 
-<b align="center">Languages and Tools</b> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b >Languages and Tools</b> <br>
 
 <p align="center"
   - <b>Front end</b> <br>
-  - JS <br> <br>
+  - JS
+  - ReactJs <br> <br>
   - <b>Back end</b> <br>
   - NodeJs
   - Sql, MongoDB
