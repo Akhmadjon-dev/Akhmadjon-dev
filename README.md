@@ -57,7 +57,7 @@ link with me.
 -->
 *************
 
-From [Akhmadjon](https://akhmadjon-dev.github.io/portfolio-simple/)
+From [Akhmadjon](https://ahmadjon.uz)
 
 #### Thank You 🙏🏼
 
