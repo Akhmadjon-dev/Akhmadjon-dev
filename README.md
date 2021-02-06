@@ -21,9 +21,6 @@
   - Sql, MongoDB
 </p>
 
-
-**I am junior web-dev ,**
-
 **Web, Mobile (react-native)**
 <br />
 
