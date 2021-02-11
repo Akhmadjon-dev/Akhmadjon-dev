@@ -21,7 +21,7 @@
   - Sql, MongoDB
 </p>
 
-**Web, Mobile (react-native)**
+**Web, Mobile - react-native**
 <br />
 
 
