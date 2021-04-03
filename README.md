@@ -54,7 +54,7 @@ link with me.
 -->
 *************
 
-From [Akhmadjon](https://ahmadjon.uz)
+From [Akhmadjon](https://ahmadjon.uz) 
 
 #### Thank You 🙏🏼
 
