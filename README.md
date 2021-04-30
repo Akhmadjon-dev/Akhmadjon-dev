@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **USSD Cashback Mobile App**
 
-- 🌱 I’m currently learning **Gatsby**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [ahmadjon.uz](ahmadjon.uz)
 
