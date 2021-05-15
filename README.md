@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/akhmadjon17" target="blank"><img src="https://img.shields.io/twitter/follow/akhmadjon17?logo=twitter&style=for-the-badge" alt="akhmadjon17" /></a> </p>
 
 - 🔭 I’m currently working on **USSD Cashback Mobile App**
-
+ 
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [ahmadjon.uz](https://ahmadjon.uz)
