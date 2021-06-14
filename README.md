@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **[EPAM](https://www.epam.com/)**
  
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [ahmadjon.uz](https://ahmadjon.uz)
 
