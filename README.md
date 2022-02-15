@@ -22,7 +22,7 @@
 <a href="https://codepen.io/abdusamadovahmadjon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abdusamadovahmadjon" height="30" width="40" /></a>
 <a href="https://dev.to/akhmadjon17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhmadjon17" height="30" width="40" /></a>
 <a href="https://twitter.com/akhmadjon17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akhmadjon17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmadjon-abdusamadov-938a1b1a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmadjon-abdusamadov-938a1b1a4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akhmadjonabdusamdov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmadjon-abdusamadov-938a1b1a4/" height="30" width="40" /></a>
 <a href="https://fb.com/ahmadjon.abdusamadov.50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ahmadjon.abdusamadov.50" height="30" width="40" /></a>
 <a href="https://instagram.com/akhmadjon.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhmadjon.dev" height="30" width="40" /></a>
 <a href="https://medium.com/@info.ahmadjon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@info.ahmadjon" height="30" width="40" /></a>
