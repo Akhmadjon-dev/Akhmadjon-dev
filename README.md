@@ -26,7 +26,7 @@
 <a href="https://fb.com/ahmadjon.abdusamadov.50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ahmadjon.abdusamadov.50" height="30" width="40" /></a>
 <a href="https://instagram.com/akhmadjon.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhmadjon.dev" height="30" width="40" /></a>
 <a href="https://medium.com/@info.ahmadjon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@info.ahmadjon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucslz01e1ydlt20hsjsq2xdq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucslz01e1ydlt20hsjsq2xdq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1YMihlgneGmT68d58m1siQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucslz01e1ydlt20hsjsq2xdq" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmadjon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ahmadjon" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/akhmadjon-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="akhmadjon-dev" height="30" width="40" /></a>
 <a href="https://discord.gg/MaWcsfPh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="MaWcsfPh" height="30" width="40" /></a>
