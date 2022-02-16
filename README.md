@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [ahmadjon.uz](https://ahmadjon.uz)
 
-- 💬 Ask me about **JavaScript, React, React Native, Nodejs, Expressjs, MongoDB**
+- 💬 Ask me about **JavaScript, TypeScript, React, React Native, Nodejs, Expressjs, MongoDB**
 
 - 📫 How to reach me **info.ahmadjon@gmail.com**
 
